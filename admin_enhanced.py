@@ -1,5 +1,4 @@
 # Name:  Pramitha Dhanraj
-# Student Number:10634467  
 
 import json
 
@@ -128,3 +127,4 @@ while True:
 
     else:
         print("Invalid choice")
+
