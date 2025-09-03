@@ -1,6 +1,4 @@
 # Name:  Pramitha Dhanraj
-# Student Number:  10634467
-
 
 import random
 
@@ -48,6 +46,7 @@ if won:
     print("\nYOU WIN!")
 else:
     print("\nYOU LOST! The password was:", password)
+
 
 
 
